@@ -1,0 +1,12 @@
+{
+  "segments": [
+    {
+      "id": "opening",
+      "durationSeconds": 12,
+      "intent": "待填写：提出问题，展示变化，形成结论",
+      "sceneType": "placeholder",
+      "events": { "intro": 0, "reveal": 4, "settle": 9, "end": 12 },
+      "props": { "title": "配置骨架：画面待实现" }
+    }
+  ]
+}

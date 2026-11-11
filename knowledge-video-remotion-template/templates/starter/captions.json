@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": "opening-question", "segmentId": "opening", "start": { "event": "intro" }, "end": { "event": "reveal" }, "text": "待填写：这一期要解释的问题。" },
+    { "id": "opening-change", "segmentId": "opening", "start": { "event": "reveal" }, "end": { "event": "settle" }, "text": "待填写：通过画面变化解释机制。" },
+    { "id": "opening-result", "segmentId": "opening", "start": { "event": "settle" }, "end": { "event": "end" }, "text": "待填写：总结观察到的结果。" }
+  ]
+}

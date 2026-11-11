@@ -1,0 +1,51 @@
+# Dependencies and generated files
+node_modules/
+.cache/
+.remotion/
+dist/
+build/
+coverage/
+__pycache__/
+*.py[cod]
+*.log
+.playwright-cli/
+
+# Local credentials and machine settings
+.env
+.env.*
+!.env.example
+.npmrc
+.aws/
+.codex/
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+
+# Render output and prepared browser assets
+**/outputs/**
+!**/outputs/README.md
+**/output/**
+**/public/prepared/**
+**/releases/*.zip
+
+# Raw media is opt-in; keep indexes and source notes in Git
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.ttf
+*.otf
+*.woff
+*.woff2

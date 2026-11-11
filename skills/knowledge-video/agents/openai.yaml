@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识视频制作"
+  short_description: "围绕内容制作知识动画，复用模板工程，安排配乐音效并完成验证交付"
+  default_prompt: "请用 $knowledge-video 根据本期主题制作知识视频，先确定内容与分镜，再安排配乐音效并检查导出。"

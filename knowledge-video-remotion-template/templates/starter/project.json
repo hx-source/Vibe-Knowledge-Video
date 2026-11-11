@@ -1,0 +1,21 @@
+{
+  "contract": "knowledge-video-remotion",
+  "contractVersion": 1,
+  "templateVersion": "0.1.0-alpha.0",
+  "status": "draft",
+  "id": "new-topic",
+  "title": "待填写主题",
+  "video": { "width": 1920, "height": 1080, "fps": 30 },
+  "timelineBasis": "final-seconds",
+  "themeId": "paper-draft",
+  "content": { "question": "待填写核心问题", "takeaway": "待填写观众应理解的结论" },
+  "files": {
+    "storyboard": "storyboard.json",
+    "captions": "captions.json",
+    "audioPlan": "audio-plan.json",
+    "facts": "facts.md",
+    "review": "review.json",
+    "assets": "assets/index.json"
+  },
+  "narration": { "enabled": false }
+}

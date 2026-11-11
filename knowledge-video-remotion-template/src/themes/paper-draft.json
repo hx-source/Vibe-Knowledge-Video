@@ -1,0 +1,17 @@
+{
+  "id": "paper-draft",
+  "status": "draft",
+  "colors": {
+    "background": "#f1ebdf",
+    "text": "#302e2b",
+    "muted": "#817969",
+    "primary": "#446b76",
+    "accent": "#a44737"
+  },
+  "fonts": {
+    "sans": "Microsoft YaHei",
+    "serif": "SimSun",
+    "loadingStatus": "not-configured"
+  },
+  "layout": { "safeMarginPx": 80, "captionAreaHeightPx": 180 }
+}

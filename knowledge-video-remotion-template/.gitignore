@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+.remotion/
+dist/
+build/
+*.log
+.env
+.env.*
+!.env.example
+outputs/*
+!outputs/README.md
+public/prepared/
+releases/*.zip
